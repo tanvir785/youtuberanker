@@ -18,10 +18,9 @@ export default function App() {
         <div className ='pageHeader'>
         <BlockHeader></BlockHeader>
         </div>
-        
         <div className = 'pageMenu'>
           <MenuBar></MenuBar>
-      </div>
+        </div>
         <Route exact path = '/' component={homePage}></Route>
         <Route exact path = '/youtuberank' component={VideoRank}></Route>
         <Route exact path = '/commented' component={MostCommented}></Route>
