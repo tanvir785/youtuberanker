@@ -1,6 +1,6 @@
-This project is used to gather information about a Youtube Video such as views,comments and ratings. The ratings are calculated as a percentage of likes against total of likes & dislikes.
+This is an app I developed in my free time using React/Redux that is used to gather information about a Youtube video such as views,comments and ratings. The ratings are calculated as a percentage of likes against total of likes & dislikes.
 
-The project consumes Google's Youtube API and uses React JS/Redux tools to communicate with the REST API. 
+The project consumes Google's Youtube API and uses React JS/Redux tools to communicate with the REST API.
 
 For CSS I have used Material UI, a popular React JS Web component that enhances design and functional capabilities of a React App (https://material-ui.com/) and also Semantic UI (https://semantic-ui.com/).
 

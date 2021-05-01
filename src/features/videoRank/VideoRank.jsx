@@ -8,7 +8,6 @@ import './VideoRank.scss'
 import SearchBar from '../../components/SearchBar/SearchBar';
 import { Link } from 'react-router-dom';
 import { makeStyles } from '@material-ui/core/styles';
-import Paper from '@material-ui/core/Paper';
 import Grid from '@material-ui/core/Grid';
 
 const useStyles = makeStyles((theme) => ({
